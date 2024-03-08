@@ -1,1 +1,2 @@
 # Automated-Sticker-Detector---Deep-Learning-2023-Toyota-Innovation-Challenge-
+As a participant in the 2024 Toyota Innovation Challenge, developed and trained a YOLOv8 deep learning model for sticker coverage evaluation through object detection. Utilized Roboflow for dataset management and preprocessing tasks, including image resizing and labeling. Evaluated model performance using validation data, generating key evaluation metrics such as confusion matrix and result images. Deployed the trained model to evaluate sticker coverage in real-time
